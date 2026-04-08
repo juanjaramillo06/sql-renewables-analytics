@@ -1,0 +1,17 @@
+# Entorno virtual — muy pesado, no se sube nunca
+venv/
+
+# Credenciales — nunca se suben
+.env
+
+# Archivos compilados de Python — se regeneran automáticamente
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de sistema
+.DS_Store
+*.log
+
+# Imágenes generadas
+*.png
