@@ -20,4 +20,6 @@ __pycache__/
 test_conexion.py
 test_graficos.py
 test_kpis.py
+
+# Metadata de Python al haber instalado "pip install -e"
 *.egg-info/
